@@ -1,0 +1,53 @@
+_repo: Hamleto-Re-ido-de-Danujo_37279
+_version: 0.1.0
+alternative_title: Hamlet. Esperanto
+contributor:
+  translator:
+    agent_name: Zamenhof, L. L. (Ludwik Lejzer)
+    aliases:
+    - Zamenhof, Ludovic Lazarus
+    - Zamenhof, Lazaro Ludoviko
+    - Zamenhof, Ludwik Lazar
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '3934'
+    url: http://www.gutenberg.org/2009/agents/3934
+    wikipedia: http://en.wikipedia.org/wiki/L._L._Zamenhof
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf:
+- Esperanto
+- Best Books Ever Listings
+gutenberg_issued: '2011-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37279'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Denmark -- Drama'
+- !lcsh 'Fathers -- Death -- Drama'
+- !lcsh 'Princes -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Hamlet (Legendary character) -- Drama'
+- !lcsh 'Kings and rulers -- Succession -- Drama'
+- !lcsh 'Revenge -- Drama'
+- !lcsh 'Murder victims'' families -- Drama'
+title: Hamleto, Reĝido de Danujo
+url: http://www.gutenberg.org/ebooks/37279
